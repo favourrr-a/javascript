@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Gojo",
+        "age": 28,
+        "isEmoloyed": true,
+        "hobbies": "none"
+    },
+    {
+        "name": "Geto",
+        "age": 28,
+        "isEmoloyed": true,
+        "hobbies": "none"
+    },
+    {
+        "name": "Utahime",
+        "age": 28,
+        "isEmoloyed": true,
+        "hobbies": "none"
+    }
+]
