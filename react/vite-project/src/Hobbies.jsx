@@ -1,5 +1,5 @@
 function Hobbies(){
-    const hooby1 = "reading";
+    const hobby1 = "reading";
     const hobby2 = "writing";
 
     return(
@@ -8,7 +8,7 @@ function Hobbies(){
             <li>{hobby2.toUpperCase()}</li>
             <li>Playing video games</li>
         </ul>
-    )
+    );
 }
 
 export default Hobbies
