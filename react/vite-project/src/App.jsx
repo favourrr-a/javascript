@@ -1,16 +1,9 @@
-import Header from "./Header.jsx"
-import Footer from "./Footer.jsx";
-import Hobbies from "./Hobbies.jsx";
+import Card from "./Card.jsx";
+function App(){
 
-function App() {
-  
-  return(
-    <>
-      <Header/>
-      <Hobbies/>
-      <Footer/>   
-    </>
-  );
+return(
+    <Card/>
+);
 }
 
 export default App
